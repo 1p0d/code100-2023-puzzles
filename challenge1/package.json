@@ -1,0 +1,12 @@
+{
+  "name": "code100-challenge1",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "1p0d",
+  "license": "ISC"
+}
